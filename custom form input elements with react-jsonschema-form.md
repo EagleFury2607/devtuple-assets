@@ -358,7 +358,7 @@ ReactDOM.render(<App />, document.getElementById("root"));
 
 ### Outputs:
 
-!(https://github.com/EagleFury2607/devtuple-assets/blob/main/rjsf-outputimage.jpg)
+![react-jsonschema-form Output](https://github.com/EagleFury2607/devtuple-assets/blob/main/rjsf-outputimage.jpg)
 
 ```bash
 {days: 3, weeks: 1, months: 8, years: 2}
