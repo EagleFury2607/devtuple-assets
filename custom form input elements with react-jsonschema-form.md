@@ -11,7 +11,7 @@ tags:
 ---
 
 react-jsonschema-form is a React component that can be used to build forms using JSON Schema.
-In this article we'll discuss about creating custom form elements to use in a Web form. react-jsonschema-form supports multiple themes but we will be using Material-UI theme. In this example, we will be creating a duration component which captures duration in terms of {days,weeks,months,years}
+In this article we'll discuss about creating custom form elements to use in a Web form. react-jsonschema-form supports multiple themes but we will be using Material-UI theme. In this example, we will be creating a duration component which captures duration in terms of {days,weeks,months,years}.
 
 ### Requirements:
 
